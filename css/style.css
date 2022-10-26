@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #36006b;
+}
+
+div {
+  display: block;
+}
+
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 80px;
+  color: rgb(255, 255, 255);
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 48px;
+  color: rgb(255, 255, 255);
+}
+h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+h5 {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
+
+#header {
+  height: auto;
+  width: auto;
+  padding: 85px 0 70px 0px;
+  background-color: #8400ff;
+  color: white;
+  text-align: center;
+}
+
+#header span {
+  font-weight: 700;
+}
+
+.custom-navbar {
+  background-color: #ffffff;
+}
+
+.custom-ul {
+  text-align: center;
+  background-color: #fff;
+}
+
+.shadow {
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.8) !important;
+}
+
+.bg-custom-black {
+  background-color: #8400ff !important;
+}
+
+.custom-hightlight {
+  color: #8400ff;
+}
+
+.custom-li {
+  font-weight: 700;
+  padding: 0px 25px;
+}
+
+.custom-logo {
+  width: 22%;
+}
+
+.custom-bnt {
+  background-color: #36006b;
+  padding: 10px;
+  border: none;
+  outline: none;
+}
+
+.custom-card {
+  border-radius: 20px;
+  padding: 12px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border: none;
+}
+.custom-card-venda {
+  border-radius: 20px;
+  background-color: #f1f1f1;
+  padding: 12px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border: none;
+}
+
+.custom-img-width {
+  width: 80px;
+}
+
+.custom-img-width-mercado-pago {
+  max-width: 100%;
+}
+
+.custom-service-card {
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border: none;
+}
+
+.custom-footer {
+  background-color: transparent;
+  border: none;
+}
+
+.custom-bg {
+  height: 350px;
+  background: #f1f1f1;
+}
+
+.ymp-image {
+  max-width: 100%;
+  max-height: 100%;
+}
